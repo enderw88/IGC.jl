@@ -12,7 +12,7 @@ IGC file format is defined using [Technical Specification for IGC-approved GNSS 
 
 ```julia
 julia> using Pkg
-julia> Pkg.clone("https://github.com/scls19fr/IGC.jl")
+julia> Pkg.clone("https://github.com/enderw88/IGC.jl")
 ```
 
 ## Usage
